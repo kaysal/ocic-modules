@@ -17,6 +17,5 @@ git tag -a "v1.0.0" -m "First release of services modules for Bastion Server, Fo
 git push --tags
 ```
 
-
 [OCIC Architecture]: <https://storage.googleapis.com/cloud-network-things/oracle/ocic_arch/image_8_1.png>
 [Terraform: Up and Running]: <https://www.terraformupandrunning.com/>
