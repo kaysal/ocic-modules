@@ -1,6 +1,8 @@
 # Oracle Cloud Infrastructure Modules
 
-These are custom modules used for demo of an example of a reference architecture. The modules are configured specifically for the scenario illustrated in [OCIC Architecture] and are designed according to Infrastructure as Code (IAC) principles outlined in [Terraform: Up and Running].
+These are custom modules used for demo of an example of a reference architecture.
+
+The modules are configured specifically for the scenario illustrated in [OCIC Architecture] and are designed according to Infrastructure as Code (IAC) principles outlined in [Terraform: Up and Running].
 
 The modules repository was uploaded initially and Git version set via tag to V1.0.0
 
